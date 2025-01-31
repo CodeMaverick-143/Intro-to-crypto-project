@@ -31,7 +31,7 @@ Welcome to the **Learn Cryptocurrency** project! This webpage is a comprehensive
 - **Hosting**:
   - Hosted on platforms like GitHub Pages, Netlify, or Vercel.
 
----
+-------
 
 ## **Learning topics and taking references**:
  -W3School
