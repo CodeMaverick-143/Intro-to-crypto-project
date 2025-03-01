@@ -2,7 +2,7 @@
 
 Welcome to the **Learn Cryptocurrency** project! This webpage is a comprehensive guide for beginners to understand the fundamentals of cryptocurrency. It covers topics such as blockchain technology, types of cryptocurrencies, how to buy and sell crypto, security measures, and more.
 
----
+----
 
 ## **Project Features**
 
